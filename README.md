@@ -45,6 +45,13 @@ I was given opportunity for representing Wasraw Univesity of Technology on 16th 
 
 ### Aim of the project
 
+Design a device that will precisely pick up the micro-shaft of the thrust bearing and allow for an easier assembly process of the entire bearing. I aimed for it to be easily controlled, the optimal choice for that would a joystick due to its intuitive control interface and the built-in button that would allow for additional functionality if needed. The micro-robotic gripper would be attached to the Cartesian XYZ robot with a high-precision linear actuators, as shown below.
+
+#### Laboratory Setup for Assembly and Testing of Micro-Bearings
+
+<img src="https://github.com/majkel808/6-axis_assembly_station_for_thrust_microbearings/assets/163661382/71054e6f-62f4-4fe4-a1bf-7e601fa82f09" alt="20230619_171729" width="550">
+
+
 ### 3D model
 
 ### Arduino control
