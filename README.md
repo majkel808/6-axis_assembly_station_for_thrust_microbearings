@@ -11,7 +11,7 @@ Project for laboratory of Micromechanics and Photonics at Warsaw University of T
 - [6-axis control](#6-axis-control)
   - [Aim of the project](#Aim-of-the-project)
   - [3D model](#3D-model)
-- [Future Work](#future-work)
+
 
 ## Detailed Description
 
@@ -91,9 +91,8 @@ Three degrees of freedom were already available via the XYZ robot, so the only a
 
 #### The model created with Autodesk Inventor:
 
-<img src="https://github.com/majkel808/6-axis_assembly_station_for_thrust_microbearings/assets/163661382/4a211ad1-1a01-4e11-ab0a-d355538f4339" alt="Controller" width="700">
+<img src="https://github.com/majkel808/6-axis_assembly_station_for_thrust_microbearings/assets/163661382/4a211ad1-1a01-4e11-ab0a-d355538f4339" alt="Controller" width="650">
 
-<img src="https://github.com/majkel808/6-axis_assembly_station_for_thrust_microbearings/assets/163661382/affc2a53-6123-4d51-a6b6-261d2738f85f" alt="Controller" width="700">
+<img src="https://github.com/majkel808/6-axis_assembly_station_for_thrust_microbearings/assets/163661382/affc2a53-6123-4d51-a6b6-261d2738f85f" alt="Controller" width="650">
 
 
-## Future Work
