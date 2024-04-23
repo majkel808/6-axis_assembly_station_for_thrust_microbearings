@@ -67,6 +67,15 @@ I've designed the device in Autodesk Inventor. And manufactured the part with 3D
 
 ### Arduino control
 
+To controll the robotic micro-gripper I've designed the stepper motor controller, based on the Arduino Nano. The user imput was given via joystick:
+- moving left/ right -> fast travel endpoints of the tweezers
+- moving up/ down -> slower and precise movement
+- using the button -> moving by one step of the motor, motor rotates in according of the last fast or slow movement
+- 
+#### Arduino stepper motor controller 
+
+<img src="https://github.com/majkel808/6-axis_assembly_station_for_thrust_microbearings/assets/163661382/5efaf860-a713-4fd5-92f1-a8770a7a73ef" alt="Controller" width="400">
+
 ## 6-axis control
 
 ### Aim of the project
