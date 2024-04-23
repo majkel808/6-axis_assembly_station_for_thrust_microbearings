@@ -51,8 +51,19 @@ Design a device that will precisely pick up the micro-shaft of the thrust bearin
 
 <img src="https://github.com/majkel808/6-axis_assembly_station_for_thrust_microbearings/assets/163661382/71054e6f-62f4-4fe4-a1bf-7e601fa82f09" alt="20230619_171729" width="550">
 
-
 ### 3D model
+
+I have decided to utilize a small and precise linear stepper motor to control the positioning of the endpoints of the small tweezers. With this setup, it would be possible to achieve a precision of 10 to 20 microns for the grip. The device would have the following functionalities:
+- mechanical angular position adjustmet of the gripper
+- automatic control of the tweezer grip
+- easy to use controller
+- the device is compact in size, so that it would be possible to use it under the microscope
+
+I've designed the device in Autodesk Inventor. And manufactured the part with 3D printing. The 3D model and the final assebmly has been shown in the pictures below.
+
+<img src="https://github.com/majkel808/6-axis_assembly_station_for_thrust_microbearings/assets/163661382/6854386e-3bc3-43aa-a90a-38046c744e5b" alt="Zrzut ekranu 2024-04-23 210503" width="550">
+
+<img src="https://github.com/majkel808/6-axis_assembly_station_for_thrust_microbearings/assets/163661382/df55c0cd-f335-4f46-b267-513800c004ee" alt="dddd" width="550">
 
 ### Arduino control
 
