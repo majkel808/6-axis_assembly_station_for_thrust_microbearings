@@ -71,15 +71,29 @@ To controll the robotic micro-gripper I've designed the stepper motor controller
 - moving left/ right -> fast travel endpoints of the tweezers
 - moving up/ down -> slower and precise movement
 - using the button -> moving by one step of the motor, motor rotates in according of the last fast or slow movement
-- 
+  
 #### Arduino stepper motor controller 
 
 <img src="https://github.com/majkel808/6-axis_assembly_station_for_thrust_microbearings/assets/163661382/5efaf860-a713-4fd5-92f1-a8770a7a73ef" alt="Controller" width="400">
 
 ## 6-axis control
 
+The culmination of the assembly station modernization was a project of mine, undertaken as part of my coursework at university. I wanted to designe a machine that would allowed for full 6-axis position control of the shaft relative to the one of the disk that the bearing was made of. With this device, it would be posible, not only to asseble it atomaticly but with full control of the eccentricity and skewness of the shaft relative to the disk. 
+
 ### Aim of the project
+
+Design the station with three additional degrees of freedom for positional control, ensuring very high angular precision. The automatic controll woudl be achived with the feedback loop from the computer vision software and from 3 digital microscopes. This part of the project was only conceptual. 
 
 ### 3D model
 
-## Future Work]
+
+Three degrees of freedom were already available via the XYZ robot, so the only additional device needed would be for angular position control. I chose to design a Stewart platform with high-precision linear actuators. The most crucial mechanical aspect of the design, which would have the greatest impact on precision, was the selection of angular bearings. After conducting some research, I opted to use kinematic coupling between the platform and the actuators to achieve the highest possible precision. 
+
+#### The model created with Autodesk Inventor:
+
+<img src="https://github.com/majkel808/6-axis_assembly_station_for_thrust_microbearings/assets/163661382/4a211ad1-1a01-4e11-ab0a-d355538f4339" alt="Controller" width="700">
+
+<img src="https://github.com/majkel808/6-axis_assembly_station_for_thrust_microbearings/assets/163661382/affc2a53-6123-4d51-a6b6-261d2738f85f" alt="Controller" width="700">
+
+
+## Future Work
